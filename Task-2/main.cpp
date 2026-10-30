@@ -16,5 +16,5 @@ int main() {
     cout << endl; // Puts us on the next row
 }
 cout << "Here is your tree Merry Christmas :)" << endl; // Bc it fits with the theme
-    return 0; // Nowadays return 0 is not needed but is good practice and we should know of it so we are not confused
+    return 0; // Nowadays return 0 is not needed but is good practice and we should know of it so we are not confused when we come across it in the future
 }
