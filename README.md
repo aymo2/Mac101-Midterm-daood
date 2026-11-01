@@ -1,4 +1,3 @@
 # Mac101-Midterm-daood
 
-Name: Mohammad Daood Ayaz
-ID: 225046523
+Name: Mohammad Daood Ayaz\nID: 225046523
